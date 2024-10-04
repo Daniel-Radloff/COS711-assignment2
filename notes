@@ -1,0 +1,4 @@
+refactor main training to function that can take in network, optimizer etc
+figure out k fold
+make training matrix/grid search thing on 2 hyper parameters
+impliment the hybrid thing
